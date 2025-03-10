@@ -5,7 +5,7 @@ import { FaSquareXTwitter } from 'react-icons/fa6'
 export default function Footer() {
     return (
         <footer className='mx-[5rem] mt-[5rem] mb-4'>
-            <div className="logo invert w-[10rem] mb-7"><img src="../../src/assets/logo.avif" alt="" /></div>
+            <div className="logo invert w-[10rem] mb-7"><img src="https://b.zmtcdn.com/web_assets/8313a97515fcb0447d2d77c276532a511583262271.png" alt="" /></div>
             <div className="footer flex flex-wrap gap-5 justify-around items-start mb-10">
                 <div className="about">
                     <p className='text-xl'>ABOUT ZOMATO</p>
@@ -57,8 +57,8 @@ export default function Footer() {
                         <FaFacebook className='w-[1.5rem] h-[1.5rem]' />
                     </div>
                     <ul className='text-gray-500 '>
-                        <li className='w-30 my-3'><img src="../../src/assets/google-play.webp" alt="" /></li>
-                        <li className='w-30 my-3'><img src="../../src/assets/app-store.webp" alt="" /></li>
+                        <li className='w-30 my-3'><img src="https://b.zmtcdn.com/data/webuikit/23e930757c3df49840c482a8638bf5c31556001144.png" alt="" /></li>
+                        <li className='w-30 my-3'><img src="https://b.zmtcdn.com/data/webuikit/9f0c85a5e33adb783fa0aef667075f9e1556003622.png" alt="" /></li>
                     </ul>
                 </div>
             </div>

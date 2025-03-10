@@ -12,7 +12,7 @@ export default function HeroSection() {
     },[])
     return (
         <div className="hero-section bg-red-500 w-full h-[65vh] relative overflow-hidden">
-            <img src="../../src/assets/hero image.avif" className='w-[100%] min-w-[50rem] h-full absolute' alt="" />
+            <img src="https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png" className='w-[100%] min-w-[50rem] h-full absolute' alt="" />
             <div className="hero-content w-full text-white absolute z-10 sm:px-20 px-5 py-2">
                 <p className='hamburger cursor-pointer sm:hidden text-xl'>☰</p>
                 <nav className='navbar sm:flex justify-between text-black sm:text-white items-center text-sm md:text-lg sm:static absolute sm:bg-transparent bg-white transition-all duration-200 left-[-50%] p-4 sm:p-0'>
@@ -24,7 +24,7 @@ export default function HeroSection() {
                         <li className='cursor-pointer sm:my-0 my-3'>Sign up</li>
                     </ul>
                 </nav>
-                <img src="../../src/assets/logo.avif" className='w-[17rem] my-10 mx-auto' alt="" />
+                <img src="https://b.zmtcdn.com/web_assets/8313a97515fcb0447d2d77c276532a511583262271.png" className='w-[17rem] my-10 mx-auto' alt="" />
                 <p className="hero-description text-center sm:text-4xl text-xl">Discover the best food & drinks in Pune</p>
             </div>
         </div>

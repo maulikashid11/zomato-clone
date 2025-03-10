@@ -5,22 +5,22 @@ export default function Collection() {
 
     const cards = [
         {
-            img: '../../src/assets/collection1.avif',
+            img: 'https://b.zmtcdn.com/data/collections/96541881ed7b42d424990403ac3afdbf_1712923153.png?output-format=webp',
             heading: 'Top Trending Spots',
             places: 42
         },
         {
-            img: '../../src/assets/collection2.avif',
+            img: 'https://b.zmtcdn.com/data/collections/2b9361aa328a43b08986f77bbec280bd_1709810606.png?output-format=webp',
             heading: 'Best Rooftop Places',
             places: 21
         },
         {
-            img: '../../src/assets/collection3.avif',
+            img: 'https://b.zmtcdn.com/data/collections/6922d49fb675d0490edb652abf5ca45f_1727171289.png?output-format=webp',
             heading: 'Newly Opened Places',
             places: 36
         },
         {
-            img: '../../src/assets/collection4.avif',
+            img: 'https://b.zmtcdn.com/data/collections/5aee46adaa9a17993f23fa9b3512cc4b_1710849422.png?output-format=webp',
             heading: 'Iftar Specials',
             places: 43
         },
